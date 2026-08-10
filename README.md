@@ -1,4 +1,4 @@
-#shakeq
+#Shakeq
 
 ### Independent OSINT Analyst · Student
 Разведка на основе открытых данных · деанонимизация · кибербезопасность
