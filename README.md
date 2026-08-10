@@ -1,16 +1,22 @@
-## Hi there 👋
+# Shakeq
 
-<!--
-**shakeq/shakeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Independent OSINT Analyst · Student
+Разведка на основе открытых данных · деанонимизация · кибербезопасность
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## О себе
+
+* Начинающий OSINT-исследователь и специалист по информационной безопасности. Практикуюсь на реальных кейсах, прохожу CTF-комнаты и изучаю методы анализа данных.
+
+---
+
+## Направления
+
+* **OSINT** — поиск и верификация информации по открытым источникам
+* **Digital Footprint** — анализ цифрового следа и методы защиты
+* **CTF / Write-ups** — разбор практических задач и тренировочных 
+
+---
+
+> Вся деятельность носит образовательный и научно-исследовательский характер и направлена на повышение цифровой грамотности и осведомлённости о безопасности.
